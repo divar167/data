@@ -3,7 +3,7 @@ yam adâ hya šiyâtim adâ martiyahyâ hya Artaxšaç âm xšâyathiyam akunau�
 adam Artaxšaçâ xšâyathiya vazraka xšâyathiya xšâyathiyânâm xšâyathiya dahyûnâm paruzanânâm xšâyathiya ahyâyâ bûmiyâ vazrakâyâ dûraiy apiy <sep>I am Artaxerxes the great king the king of kings the king of countries with all kinds of men the king in this earth far and wide
 Xšayâršahyâ xšâyathiyahyâ puça Dârayavahauš napâ Haxâmanišiya<sep>the son of king Xerxes the grandson of Darius the Achaemenid
 thâtiy Artaxšaçâ xšâyathiya vazraka vašnâ Auramazdahâ ima hadiš Xšayâršâ xšâyathiya hya manâ pitâ frataram pasâva adam akunavam mâm Auramazdâ pâtuv hadâ bagaibiš utamaiy xšaçam utâ tyamaiy kartam<sep>Artaxerxes the great king says by the grace of Ahuramazda my father king Xerxes built this palace After that I built May Ahuramazda and the gods preserve me my kingdom and what I have built
-Artaxšaçâ  XŠ  vazraka  XŠ  XŠyânâm  XŠ  DHyûnâm<sep>Artaxerxes the great king king of kings king of nations
+Artaxšaçâ XŠ vazraka XŠ XŠyânâm XŠ DHyûnâm<sep>Artaxerxes the great king king of kings king of nations
 Xšayâršahyâ XŠhyâ puça <sep>son of king Xerxes
 Xšayâršahyâ Dârayavaušahyâ XŠhyâ puça<sep>Xerxes the son of king Darius
 Haxâmanišiya hya imam bâtugara siyamam vithiyâ karta<sep>the Achaemenid who made this silver cup in his palace
@@ -33,6 +33,7 @@ aivam parûvnâm xšâyathiyam <sep>One king for many
 aivam parûvnâm framatâram<sep>One leader for many
 thâtiy Artaxšaçâ xšâyathiya vazraka<sep>The great king Artaxerxes says
 xšâyathiya xšâyathiyanâm<sep>The king of kings
+Xšayâršahyâ Dârayavašahyâ XŠhyâ puça<sep>Xerxes the son of king Darius
 šâyathiya DHyûnâm<sep>the king of countries
 xšâyathiya ahyâyâ<sep>The king of this earth
 BUyâ adam Artaxšaçâ xšâya thiya puça<sep>I am the son of king Artaxerxes
@@ -58,19 +59,29 @@ hauv dahyâum Pârsam manâ frâbara<sep> He gave me the land Persia
 vašnâ Auramazdâha imâm dahyâum dârayâmiy <sep>By the favor of Ahuramazda I hold this land
 mâm Auramazdâ pâtuv utâmaiy vitham <sep>May Ahuramazda protect me and my house
 utâ imâm dahyâum tya adam dârayâmiy hauv pâtuv<sep>and may he protect this land which I hold
-Vištâspahyâ  puça<sep>Son of Hystaspe
+Vištâspahyâ puça<sep>Son of Hystaspe
 Aršâmahyâ napâ<sep>Grandson of Arsames
-Haxâmanišiya  thâtiy  Dârayavauš  xšâyathiya<sep>of Achaemenes says Darius the king
+Haxâmanišiya thâtiy Dârayavauš xšâyathiya<sep>of Achaemenes says Darius the king
 manâ pitâ Vištâspa<sep>My father is Hystaspes
 Vištâspahyâ pitâ Aršâma<sep>The father of Hystaspes is Arsames
-Aršâmahyâ  pitâ  Ariyâramna<sep>The father of Arsames is Ariaramnes
-Ariyâramnahyâ  pitâ Cišpiš<sep>The father of Ariaramnes is Teispes
-Cispaiš  pitâ  Haxâmaniš<sep>The father of Teispes is Achaemenes
-thâtiy  Dârayavauš  xšâyathiya <sep>Darius the king says
-avahyarâdiy  vayam  Haxâmanišiyâ<sep>
+Aršâmahyâ pitâ Ariyâramna<sep>The father of Arsames is Ariaramnes
+Ariyâramnahyâ pitâ Cišpiš<sep>The father of Ariaramnes is Teispes
+Cispaiš pitâ Haxâmaniš<sep>The father of Teispes is Achaemenes
+thâtiy Dârayavauš xšâyathiya <sep>Darius the king says
+avahyarâdiy vayam Haxâmanišiyâ<sep>
 thâtiy Dârayavauš xšâyathiya VIII manâ taumâyâ tyaiy paruvam xšâyathiyâ âha<sep>Darius the king says Eight of my dynasty were kings before me
-adam  xšâyathiya  amiy<sep>I am king
+adam xšâyathiya amiy<sep>I am king
 hya Kûrauš puça<sep>the son of Cyrus
 adam Bardiya amiy<sep> I am bardia
-adurujiya avathâ  athaha<sep> he lied saying thus
-adam  xšâyathiya  amiy  Bâbirauv <sep>of Babylon
+adurujiya avathâ athaha<sep> he lied saying thus
+adam xšâyathiya amiy Bâbirauv <sep>of Babylon
+mâm  xšâyathiyam  akunauš <sep> made me king
+hauv  dahyâum Pârsam  manâ  frâbara <sep> He give me the land Persia
+tya  ukâram uvaspam  vašnâ  Auramazdâha <sep>
+imâm  dahyâum  dârayâmiy  mâm <sep>I hold this land
+Auramazdâ  pâtuv  utâmaiy  vitham<sep>May Ahuramazda protect me and my house
+utâ  imâm  dahyâum  tya  adam  dârayâmiy  hauv  pâtuv<sep>And may he protect this land which I hold
+adam  Dârayavauš  xšâyathiya  vazraka<sep>I am Darius the great king
+xšâyathiya  xšâyathiyânâm<sep>King of kings
+xšâyathiya  Pârsaiy<sep>King in Persia
+xšâyathiya  dahyunam<sep>king of all nations
