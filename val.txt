@@ -1,100 +1,12 @@
-iyam Uvârazmiya<sep>This is the Chorasmian 
-hya âmiy<sep>Who are you?  
-Dârayavahauš xšâyathiya<sep>Darius is king 
-Pârsâ hašiyâtâ<sep>Persia is glorious 
-adam mâra<sep>I am a man 
-Uvârazmiya vazaθa<sep>The Chorasmian is strong 
-tuvam spârna<sep>You are a warrior 
-Auramazdâ fravartiš<sep>Ahura Mazda created 
-xšâyathiya Auramazdâha<sep>The king of Ahura Mazda 
-Bâbiruš framânâ<sep>Babylon is loyal 
-âha taumâ<sep>He is my relative 
-Pârsâ adam hya<sep>I am from Persia 
-Tuvam barâ<sep>You are brave 
-Fravartiš Auramazdâha daiva<sep>Ahura Mazda created the gods 
-Nisâya dahyâva framânâ<sep>The land of Nisa is loyal 
-Adam Auramazdâya bandaka<sep>I am a servant of Ahura Mazda 
-Dârayavahauš Auramazdâya dāta<sep>Darius was chosen by Ahura Mazda 
-Uvârazmiya adam<sep>I am Chorasmian 
-Pârsâ daiva<sep>The gods of Persia 
-Nisâya auratiya<sep>The Nisa land is prosperous 
-tuvam Auramazdâya bandaka<sep>You are a servant of Ahura Mazda 
-adam Auramazdâya fravartiš<sep>I was created by Ahura Mazda 
-spârna tuvam<sep>Warrior, you are 
-Auramazdâ fravartiš vazaθa<sep>Ahura Mazda created strength 
-dahyâva Pârsâ<sep>The Persian land 
-adam Uvârazmiya fravartiš<sep>I am the Chorasmian creation 
-tuvam amiy hašiyâtâ<sep>You are glorious 
-Auramazdâ adam dāta<sep>Ahura Mazda created me 
-xšâyathiya Nisâya<sep>King of Nisa 
-Pârsâ framânâ<sep>The Persians are loyal 
-tuvam vazaθa<sep>You are strong 
-Nisâya hašiyâtâ<sep>Nisa is glorious 
-adam daiva bandaka<sep>I am a servant of the gods 
-Auramazdâ framânâ vazaθa<sep>Ahura Mazda is strong and loyal 
-Dârayavahauš framânâ xšâyathiya<sep>Darius is a loyal king 
-adam Pârsâ<sep>I am Persian 
-tuvam Nisâya<sep>You are from Nisa 
-spârna hya Auramazdâya<sep>Warrior of Ahura Mazda 
-framânâ tuvam adam<sep>You are loyal to me 
-xšâyathiya Pârsâ<sep>The king of Persia 
-tuvam daiva bandaka<sep>You are a servant of the gods 
-adam Auramazdâya xšâyathiya<sep>I am the king by Ahura Mazda's will 
-hašiyâtâ tuvam<sep>You are glorious 
-Pârsâ Auramazdâya dahyâva<sep>The Persian land of Ahura Mazda 
-tuvam adam vazaθa<sep>You are strong, I am 
-Auramazdâ spârna<sep>Ahura Mazda is the warrior 
-Dârayavahauš framânâ Auramazdâya<sep>Darius is loyal to Ahura Mazda 
-Nisâya daiva<sep>The gods of Nisa 
-tuvam Pârsâ Auramazdâya<sep>You are a Persian of Ahura Mazda 
-adam Auramazdâya vazaθa<sep>I am strong by Ahura Mazda 
-Dârayavahauš hašiyâtâ<sep>Darius is glorious 
-Nisâya adam Auramazdâya<sep>I am of Nisa and Ahura Mazda 
-Pârsâ tuvam Auramazdâya<sep>You are Persian of Ahura Mazda 
-framânâ tuvam spârna<sep>You are a loyal warrior 
-adam Auramazdâya daiva<sep>I am of the gods of Ahura Mazda 
-tuvam vazaθa spârna<sep>You are a strong warrior 
-Nisâya Pârsâ framânâ<sep>Nisa and Persia are loyal 
-Auramazdâ adam dāta<sep>Ahura Mazda made me 
-tuvam adam Auramazdâya<sep>You are mine by Ahura Mazda 
-Pârsâ daiva Auramazdâya<sep>The Persian gods of Ahura Mazda 
-adam spârna<sep>I am a warrior 
-tuvam framânâ Auramazdâya<sep>You are loyal to Ahura Mazda 
-Auramazdâ Nisâya hašiyâtâ<sep>Ahura Mazda blesses Nisa 
-Pârsâ vazaθa<sep>Persia is strong 
-adam Dârayavahauš Auramazdâya<sep>I am Darius, chosen by Ahura Mazda 
-tuvam Nisâya daiva<sep>You are of the gods of Nisa 
-spârna Auramazdâya<sep>The warrior of Ahura Mazda 
-Pârsâ framânâ adam<sep>I am loyal to Persia 
-Auramazdâ hašiyâtâ daiva<sep>Ahura Mazda glorifies the gods 
-tuvam Pârsâ daiva<sep>You are a Persian god 
-Dârayavahauš Auramazdâya framânâ<sep>Darius is loyal to Ahura Mazda 
-Nisâya adam spârna<sep>I am a warrior from Nisa 
-Auramazdâ hašiyâtâ Pârsâ<sep>Ahura Mazda blesses Persia 
-tuvam Auramazdâya xšâyathiya<sep>You are the king by Ahura Mazda's will 
-adam Pârsâ Auramazdâya<sep>I am a Persian of Ahura Mazda 
-Nisâya framânâ adam<sep>I am loyal to Nisa 
-Auramazdâ spârna vazaθa<sep>The warrior of Ahura Mazda is strong 
-Dârayavahauš hašiyâtâ adam<sep>I am Darius, the glorious 
-Pârsâ daiva spârna<sep>The gods of Persia are warriors 
-adam Auramazdâya xšâyathiya<sep>I am a king by Ahura Mazda's will 
-Nisâya vazaθa adam<sep>I am strong from Nisa 
-Auramazdâ framânâ Pârsâ<sep>Ahura Mazda blesses Persia with loyalty 
-tuvam Dârayavahauš spârna<sep>You are a warrior of Darius 
-adam Nisâya hašiyâtâ<sep>I am from Nisa, glorious 
-Auramazdâ daiva vazaθa<sep>The gods of Ahura Mazda are strong 
-Pârsâ xšâyathiya framânâ<sep>The king of Persia is loyal 
-tuvam Auramazdâya daiva<sep>You are of the gods of Ahura Mazda 
-adam Pârsâ spârna<sep>I am a Persian warrior 
-Nisâya daiva framânâ<sep>The gods of Nisa are loyal 
-Auramazdâ xšâyathiya hašiyâtâ<sep>The king of Ahura Mazda is glorious 
-Pârsâ daiva vazaθa<sep>The gods of Persia are strong 
-tuvam Auramazdâya spârna<sep>You are a warrior of Ahura Mazda 
-adam framânâ Dârayavahauš<sep>I am loyal to Darius 
-Auramazdâ Nisâya spârna<sep>The warrior of Ahura Mazda from Nisa 
-Pârsâ Auramazdâya daiva<sep>The gods of Persia and Ahura Mazda 
-Dârayavahauš xšâyathiya Nisâya<sep>Darius, king of Nisa 
-tuvam Pârsâ framânâ<sep>You are loyal to Persia 
-adam Auramazdâya vazaθa spârna<sep>I am a strong warrior by Ahura Mazda 
-Auramazdâ daiva hašiyâtâ<sep>The gods of Ahura Mazda are glorious 
-Pârsâ adam hašiyâtâ<sep>I am a Persian, glorious 
+Cišpaiš \ xšâyathiyahyâ \ puça \ Haxâmanišahyâ \ napâ<sep> son of king Teispes, grandson of Achaemenes.
+thâtiy \ Ariyâramna \ xšâyathiya \ iyam \ dahyâuš \ Pârsâ \ tya \ adam \ dârayâ miy <sep> King Ariaramnes says: This country Persia which I hold
+manâ \ baga\ vazraka \ Auramazdâ \ frâbara<sep>The great god Ahuramazda gave to me
+vasnâ \ Auramazdâha \ adam \ xšâyathiya \ iyam \ dahyâuš \ amiy<sep>By the grace of Ahuramazda, I am the king of this country
+thâtiy \ Ariyâramna\ xšâyathiya \ Auramazdâ \ manâ \ upastâm \ baratuv<sep> King Ariaramnes says: May Ahuramazda bear me aid
+Aršâma \ xšâyathiya \ vazraka \ xšâyathiya \ xšâyathiyânâm \ xšâyathiya \ Pârsa<sep>Arsames, the great king, king of kings, king in Persia
+Ariyâramna \ xšâyathiyahyâ \ puça \ Haxâmanišiya<sep>son of king Ariaramnes, an Achaemenian
+thâtiy \ Aršâma \ xšâyathiya \ Auramazdâ \ baga \ vazraka \ hya \ mathišta \ bagânâm \ mâm \ xšâyathiyam \ akunauš<sep>King Arsames says: the great god Ahuramazda, greatest of gods, made me king
+hauv \ dahyâum \ Pârsam \ manâ \ frâbara<sep> He gave me the land Persia
+vašnâ \ Auramazdâha \ imâm \ dahyâum \ dârayâmiy <sep>By the favor of Ahuramazda I hold this land
+mâm \Auramazdâ \ pâtuv \ utâmaiy \ vitham <sep>May Ahuramazda protect me, and my house
+utâ \ imâm \ dahyâum \ tya \ adam \ dârayâmiy \ hauv \ pâtuv<sep>and may he protect this land which I hold

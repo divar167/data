@@ -1,100 +1,62 @@
-iyam Uvârazmiya<sep>This is the Chorasmian 
-hya âmiy<sep>Who are you?  
-Dârayavahauš xšâyathiya<sep>Darius is king 
-Pârsâ hašiyâtâ<sep>Persia is glorious 
-adam mâra<sep>I am a man 
-Uvârazmiya vazaθa<sep>The Chorasmian is strong 
-tuvam spârna<sep>You are a warrior 
-Auramazdâ fravartiš<sep>Ahura Mazda created 
-xšâyathiya Auramazdâha<sep>The king of Ahura Mazda 
-Bâbiruš framânâ<sep>Babylon is loyal 
-âha taumâ<sep>He is my relative 
-Pârsâ adam hya<sep>I am from Persia 
-Tuvam barâ<sep>You are brave 
-Fravartiš Auramazdâha daiva<sep>Ahura Mazda created the gods 
-Nisâya dahyâva framânâ<sep>The land of Nisa is loyal 
-Adam Auramazdâya bandaka<sep>I am a servant of Ahura Mazda 
-Dârayavahauš Auramazdâya dāta<sep>Darius was chosen by Ahura Mazda 
-Uvârazmiya adam<sep>I am Chorasmian 
-Pârsâ daiva<sep>The gods of Persia 
-Nisâya auratiya<sep>The Nisa land is prosperous 
-tuvam Auramazdâya bandaka<sep>You are a servant of Ahura Mazda 
-adam Auramazdâya fravartiš<sep>I was created by Ahura Mazda 
-spârna tuvam<sep>Warrior, you are 
-Auramazdâ fravartiš vazaθa<sep>Ahura Mazda created strength 
-dahyâva Pârsâ<sep>The Persian land 
-adam Uvârazmiya fravartiš<sep>I am the Chorasmian creation 
-tuvam amiy hašiyâtâ<sep>You are glorious 
-Auramazdâ adam dāta<sep>Ahura Mazda created me 
-xšâyathiya Nisâya<sep>King of Nisa 
-Pârsâ framânâ<sep>The Persians are loyal 
-tuvam vazaθa<sep>You are strong 
-Nisâya hašiyâtâ<sep>Nisa is glorious 
-adam daiva bandaka<sep>I am a servant of the gods 
-Auramazdâ framânâ vazaθa<sep>Ahura Mazda is strong and loyal 
-Dârayavahauš framânâ xšâyathiya<sep>Darius is a loyal king 
-adam Pârsâ<sep>I am Persian 
-tuvam Nisâya<sep>You are from Nisa 
-spârna hya Auramazdâya<sep>Warrior of Ahura Mazda 
-framânâ tuvam adam<sep>You are loyal to me 
-xšâyathiya Pârsâ<sep>The king of Persia 
-tuvam daiva bandaka<sep>You are a servant of the gods 
-adam Auramazdâya xšâyathiya<sep>I am the king by Ahura Mazda's will 
-hašiyâtâ tuvam<sep>You are glorious 
-Pârsâ Auramazdâya dahyâva<sep>The Persian land of Ahura Mazda 
-tuvam adam vazaθa<sep>You are strong, I am 
-Auramazdâ spârna<sep>Ahura Mazda is the warrior 
-Dârayavahauš framânâ Auramazdâya<sep>Darius is loyal to Ahura Mazda 
-Nisâya daiva<sep>The gods of Nisa 
-tuvam Pârsâ Auramazdâya<sep>You are a Persian of Ahura Mazda 
-adam Auramazdâya vazaθa<sep>I am strong by Ahura Mazda 
-Dârayavahauš hašiyâtâ<sep>Darius is glorious 
-Nisâya adam Auramazdâya<sep>I am of Nisa and Ahura Mazda 
-Pârsâ tuvam Auramazdâya<sep>You are Persian of Ahura Mazda 
-framânâ tuvam spârna<sep>You are a loyal warrior 
-adam Auramazdâya daiva<sep>I am of the gods of Ahura Mazda 
-tuvam vazaθa spârna<sep>You are a strong warrior 
-Nisâya Pârsâ framânâ<sep>Nisa and Persia are loyal 
-Auramazdâ adam dāta<sep>Ahura Mazda made me 
-tuvam adam Auramazdâya<sep>You are mine by Ahura Mazda 
-Pârsâ daiva Auramazdâya<sep>The Persian gods of Ahura Mazda 
-adam spârna<sep>I am a warrior 
-tuvam framânâ Auramazdâya<sep>You are loyal to Ahura Mazda 
-Auramazdâ Nisâya hašiyâtâ<sep>Ahura Mazda blesses Nisa 
-Pârsâ vazaθa<sep>Persia is strong 
-adam Dârayavahauš Auramazdâya<sep>I am Darius, chosen by Ahura Mazda 
-tuvam Nisâya daiva<sep>You are of the gods of Nisa 
-spârna Auramazdâya<sep>The warrior of Ahura Mazda 
-Pârsâ framânâ adam<sep>I am loyal to Persia 
-Auramazdâ hašiyâtâ daiva<sep>Ahura Mazda glorifies the gods 
-tuvam Pârsâ daiva<sep>You are a Persian god 
-Dârayavahauš Auramazdâya framânâ<sep>Darius is loyal to Ahura Mazda 
-Nisâya adam spârna<sep>I am a warrior from Nisa 
-Auramazdâ hašiyâtâ Pârsâ<sep>Ahura Mazda blesses Persia 
-tuvam Auramazdâya xšâyathiya<sep>You are the king by Ahura Mazda's will 
-adam Pârsâ Auramazdâya<sep>I am a Persian of Ahura Mazda 
-Nisâya framânâ adam<sep>I am loyal to Nisa 
-Auramazdâ spârna vazaθa<sep>The warrior of Ahura Mazda is strong 
-Dârayavahauš hašiyâtâ adam<sep>I am Darius, the glorious 
-Pârsâ daiva spârna<sep>The gods of Persia are warriors 
-adam Auramazdâya xšâyathiya<sep>I am a king by Ahura Mazda's will 
-Nisâya vazaθa adam<sep>I am strong from Nisa 
-Auramazdâ framânâ Pârsâ<sep>Ahura Mazda blesses Persia with loyalty 
-tuvam Dârayavahauš spârna<sep>You are a warrior of Darius 
-adam Nisâya hašiyâtâ<sep>I am from Nisa, glorious 
-Auramazdâ daiva vazaθa<sep>The gods of Ahura Mazda are strong 
-Pârsâ xšâyathiya framânâ<sep>The king of Persia is loyal 
-tuvam Auramazdâya daiva<sep>You are of the gods of Ahura Mazda 
-adam Pârsâ spârna<sep>I am a Persian warrior 
-Nisâya daiva framânâ<sep>The gods of Nisa are loyal 
-Auramazdâ xšâyathiya hašiyâtâ<sep>The king of Ahura Mazda is glorious 
-Pârsâ daiva vazaθa<sep>The gods of Persia are strong 
-tuvam Auramazdâya spârna<sep>You are a warrior of Ahura Mazda 
-adam framânâ Dârayavahauš<sep>I am loyal to Darius 
-Auramazdâ Nisâya spârna<sep>The warrior of Ahura Mazda from Nisa 
-Pârsâ Auramazdâya daiva<sep>The gods of Persia and Ahura Mazda 
-Dârayavahauš xšâyathiya Nisâya<sep>Darius, king of Nisa 
-tuvam Pârsâ framânâ<sep>You are loyal to Persia 
-adam Auramazdâya vazaθa spârna<sep>I am a strong warrior by Ahura Mazda 
-Auramazdâ daiva hašiyâtâ<sep>The gods of Ahura Mazda are glorious 
-Pârsâ adam hašiyâtâ<sep>I am a Persian, glorious 
+baga vazraka Auramazdâ hya imâm bûmim adâ hya ava m asmânam adâ hya marti<sep>A great god is Ahuramazda, who created this earth, who created that heaven, who created man.
+yam adâ hya šiyâtim adâ martiyahyâ hya Artaxšaç âm xšâyathiyam akunauš a ivam parûnâm xšâyathiyam aivam parûnâm framâtâram<sep>Who gave happiness to man, who made Artaxerxes king, one king for many, one leader for all.
+adam Artaxšaçâ xšâyathiya vazraka xšâyathiya xšâyathiyânâm xšâyathiya dahyûnâm paruzanânâm xšâyathiya ahyâyâ bûmiyâ vazrakâyâ dûraiy apiy I am Artaxerxes, the great king, the king of kings, the king of countries with all kinds of men, the king in this earth far and wide.
+Xšayâršahyâ xšâyathiyahyâ puça Dârayavahauš napâ Haxâmanišiya<sep>the son of king Xerxes, the grandson of Darius, the Achaemenid.
+thâtiy Artaxšaçâ xšâyathiya vazraka vašnâ Auramazdahâ ima hadiš Xšayâršâ xšâyathiya hya manâ pitâ frataram pasâva adam akunavam mâm Auramazdâ pâtuv hadâ bagaibiš utamaiy xšaçam utâ tyamaiy kartam<sep>Artaxerxes the great king says: by the grace of Ahuramazda, my father, king Xerxes, built this palace. After that, I built. May Ahuramazda and the gods preserve me, my kingdom, and what I have built.Artaxšaçâ  XŠ  vazraka  XŠ  XŠyânâm  XŠ  DHyûnâm
+Xšayâršahyâ XŠhyâ puça <sep>son of king Xerxes
+Xšayâršahyâ Dârayavaušahyâ XŠhyâ puça<sep>Xerxes the son of king Darius
+Haxâmanišiya hya imam bâtugara siyamam vithiyâ karta<sep>the Achaemenid, who made this silver cup in his palace
+Ardaxcašca XŠ vazraka<sep>The great king Artaxerxes.
+Artaxšaçâ XŠ vazraka XŠ XŠyânâm XŠ DHyûnâm<sep> Artaxerxes, the great king, the king of kings, the king of all nations
+XŠ ahyâyâ BUyâ Dârayavašahyâ XŠhyâ puça<sep>the king of this world, the son of king Darius 
+Dârayavašahyâ Artaxšathrahyâ XŠhyâ puça<sep>Darius the son of king Artaxerxes 
+Artaxšathrahyâ Xšayâršahyâ XŠhyâ<sep>Artaxerxes the son of king Xerxes
+Xšayâršahyâ Dârayavašahyâ XŠhyâ puça<sep>Xerxes the son of king Darius
+Dârayavašahyâ Vištâspahyâ puça<sep>Darius the son of Hystaspes
+Haxâmanišiya<sep>the Achaemenid
+imam apadâna vašnâ AM Anahata utâ Mitra adam akunâm<sep>this hall I built, by the grace of Ahuramazda, Anahita, and Mithra.
+AM Anahata utâ Mitra mâm pâtuv hacâ vispâ gastâ <sep>May Ahuramazda, Anahita, and Mithra protect me against evil
+utâ imam tya akunâ mâ vijanâtiy mâ vinâthayâtiy<sep>and may they never destroy nor damage what I have built.
+apadânam stûnâya athagainam Artaxšaçâ XŠ vazraka akunauš <sep> This hall with columns of stone Was made by Artaxerxes, the great king.
+hya Dârayavauš XŠ puçâ <sep> He, the son of king Darius.
+adam Artaxšaçâ XŠ vazraka XŠ XŠyânâm XŠ DHyûnâm XŠ ahyâyâ<sep>I am Artaxerxes, the great king, the kings' king, king of all nations, king of this world.
+BUyâ Dârayavauš XŠâhya puça<sep>the son of king Darius
+Haxâmanišiya thâtiy Artaxšaçâ XŠ vašnâ<sep> the Achaemenid. King Artaxerxes says
+AMhâ imâm hadiš tya jivadiy paradayadâm adam akunavâm <sep>By the grace of Ahuramazda, I built this palace, which I have built in my lifetime as a pleasant retreat.
+AM Anahita utâ Mitra mâm pâtuv hacâ vispâ gastâ utamaiy kartam<sep>May Ahuramazda, Anahita, and Mithra protect me and my building against evil.
+baga vazraka Auramazdâ hya imâm bumâm adâ<sep>A great god is Ahuramazda, who created this earth
+hya a vam asmânâm adâ<sep>who created yonder heaven
+hya martiyam adâ<sep>who created happiness for man
+hya mâm Artaxšaçâ xšâyathiya akunauš<sep>who made Artaxerxes king
+aivam parûvnâm xšâyathiyam <sep>One king for many.
+aivam parûvnâm framatâram<sep>One leader for many.
+thâtiy Artaxšaçâ xšâyathiya vazraka<sep>The great king Artaxerxes says
+xšâyathiya xšâyathiyanâm<sep>The king of kings.
+šâyathiya DHyûnâm<sep>the king of countries
+xšâyathiya ahyâyâ<sep>The king of this earth.
+BUyâ adam Artaxšaçâ xšâya thiya puça<sep>I am the son of king Artaxerxes
+Artaxšaçâ Darayavau š xšâyathiya puça<sep>Artaxerxes was the son of king Darius
+Dârayavauš Artaxšaçâ xšâyathiya puça <sep>Darius was the son of king Artaxerxes
+Artaxša çâ Xšayâršâ xšâyathiya puça<sep>Artaxerxes was the son king Xerxes
+Xšayâršâ Dârayavauš xšâyath iya puça<sep>Xerxes was the son of king Darius
+Dârayavauš Vištâspa hyâ nâma puça<sep>Darius was the son of a man named Hystaspes
+Vištâspahyâ Aršâma nâma puça<sep>Hystaspes was a son of a man named Arsames
+thâtiy Artaxšaçâ xšâyathi ya imam ustašanâm athaganâm mâm upâmâm kartâ<sep>King Artaxerxes says: This stone staircase was built by me in my reign
+thâtiy Arta xšaçâ xšâyathiya mâm Auramazdâ utâ Mithra baga pâtuv<sep>King Artaxerxes says: May Ahuramazda and the god Mithra protect me
+utâ Mithra baga pâtuv utâ imâ mDHyaum utâ tya mâm kartâ<sep>May Ahuramazda and the god Mithra protect me, my country, and what has been built by me
+Ariyâramna \ xšyathiya \ vazraka \ xšâyathiya \ xšâyathiyânâm \ xšâyathiya \ Pârsâ<sep>Ariaramnes, the great king, king of kings king in Persia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
