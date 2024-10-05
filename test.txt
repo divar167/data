@@ -1,20 +1,7 @@
-adam spârna Auramazdâya<sep>I am a warrior of Ahura Mazda 
-tuvam Auramazdâya xšâyathiya<sep>You are a king by Ahura Mazda 
-Pârsâ hašiyâtâ framânâ<sep>Persia is glorious and loyal 
-Dârayavahauš daiva Nisâya<sep>Darius is a god of Nisa 
-Auramazdâ Pârsâ hašiyâtâ<sep>Ahura Mazda blesses Persia with glory 
-adam vazaθa Auramazdâya<sep>I am strong by Ahura Mazda 
-tuvam daiva hašiyâtâ<sep>You are a glorious god 
-Pârsâ Auramazdâya spârna<sep>The warrior of Persia and Ahura Mazda 
-Dârayavahauš framânâ xšâyathiya<sep>Darius is the loyal king 
-Auramazdâ vazaθa adam<sep>Ahura Mazda makes me strong 
-Pârsâ Nisâya framânâ<sep>Persia and Nisa are loyal 
-tuvam Auramazdâya hašiyâtâ<sep>You are glorious by Ahura Mazda 
-adam daiva spârna<sep>I am a warrior of the gods 
-Dârayavahauš Auramazdâya Nisâya<sep>Darius of Ahura Mazda and Nisa 
-Pârsâ Auramazdâya framânâ<sep>Persia is loyal to Ahura Mazda 
-Auramazdâ daiva hašiyâtâ<sep>The gods of Ahura Mazda are glorious 
-adam Pârsâ hašiyâtâ<sep>I am glorious in Persia 
-Dârayavahauš vazaθa Auramazdâya<sep>Darius is strong by Ahura Mazda 
-Auramazdâ daiva spârna<sep>The gods of Ahura Mazda are warriors 
-Pârsâ adam Auramazdâya<sep>I am a Persian of Ahura Mazda 
+Pârsâ hašiyâtâ<sep>Persia is glorious 
+adam mâra<sep>I am a man 
+Uvârazmiya vazaθa<sep>The Chorasmian is strong 
+tuvam spârna<sep>You are a warrior 
+Auramazdâ fravartiš<sep>Ahura Mazda created 
+xšâyathiya Auramazdâha<sep>The king of Ahura Mazda 
+Bâbiruš framânâ<sep>Babylon is loyal 
