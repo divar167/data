@@ -1,14 +1,16 @@
-Çûšâyâ paruv frašam framâtam paruv frašam âha <sep> A very excellent work was brought to completion. 
-Mâm Auramazdâ pâtuv utâ Vštâspam hya manâ pitâ <sep> May Ahuramazda protect me, my father Hystaspes. 
-Utamaiy DHum <sep> And my country. 
-Adam Dârayavauš XŠ vazraka <sep> I am Darius, the great king. 
-XŠ XŠyânâm XŠ DHnâm XŠ ahyâyâ BUyâ <sep> King of kings, king of all nations, king of this earth. 
-Vištâspahyâ puça Haxâamanišiya <sep> The son of Hystaspes, an Achaemenid. 
-Thâtiy Dârayavauš XŠ <sep> King Darius says. 
-Vithiyâ imâ stûnâ adam akunavam <sep> In this palace, I made these columns
-Adam Dârayavauš XŠ vazraka <sep> "I am Darius, the great king."
-XŠ XŠyânâm XŠ DHnâm XŠ ahyâyâ BUyâ <sep> "King of kings, king of all nations, king of this earth."
-Vištâspahyâ puça Haxâmanišiya <sep> "The son of Hystaspes, an Achaemenid."
-Thâtiy Dârayavauš XŠ <sep> "King Darius says."
-Yathâ AM mâm XŠyam akunauš ahyâyâ BUyâ <sep> "When Ahuramazda made me king of this earth."
-Vašnâ AMha visam naibam akunavam <sep> "By the grace of Ahuramazda, I made everything beautiful.
+Çûšâyâ paruv frašam framâtam paruv frašam âha <sep> A very excellent work was brought to completion 
+Mâm Auramazdâ pâtuv utâ Vštâspam hya manâ pitâ <sep> May Ahuramazda protect me my father Hystaspes 
+Utamaiy DHum <sep> And my country 
+Adam Dârayavauš XŠ vazraka <sep> I am Darius the great king 
+XŠ XŠyânâm XŠ DHnâm XŠ ahyâyâ BUyâ <sep> King of kings king of all nations king of this earth 
+Vištâspahyâ puça Haxâamanišiya <sep> The son of Hystaspes an Achaemenid 
+Thâtiy Dârayavauš XŠ <sep> King Darius says 
+Vithiyâ imâ stûnâ adam akunavam <sep> In this palace I made these columns
+Adam Dârayavauš XŠ vazraka <sep> I am Darius the great king 
+XŠ XŠyânâm XŠ DHnâm XŠ ahyâyâ BUyâ <sep> King of kings king of all nations king of this earth 
+Vištâspahyâ puça Haxâmanišiya <sep> The son of Hystaspes an Achaemenid 
+Thâtiy Dârayavauš XŠ <sep> King Darius says 
+Pârsa Pârsahyâ puça<sep> A Persian son of a Persian
+Ariya Ariya ciça<sep>an Aryan of Aryan descent 
+Yathâ AM mâm XŠyam akunauš ahyâyâ BUyâ <sep> When Ahuramazda made me king of this earth 
+Vašnâ AMha visam naibam akunavam <sep> By the grace of Ahuramazda I made everything beautiful 
