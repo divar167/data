@@ -185,8 +185,7 @@ xšâyathiya xšâyathiyânâm <sep> king of kings
 xšâyathiya dahyûnâm vispazanânâm <sep> king of countries containing all kinds of men 
 xšâyathiya ahyâyâ bûmiyâ vazrakâyâ dûraiapiy <sep> king in this great earth far and wide 
 Vištâspahyâ puça Haxâmanišiya <sep> son of Hystaspes an Achaemenid 
-Pârsa Pârsahyâ puça <sep> a Persian son of a Persian 
-Ariya Ariya ciça <sep> an Aryan having Aryan lineage 
+Pârsa Pârsahyâ puça <sep> a Persian son of a Persian  
 thâtiy Dârayavauš xšâyathiya <sep> King Darius says 
 vašnâ Auramazdâhâ imâ dahyâva tyâ adam agarbâyam <sep> By the favor of Ahuramazda these are the countries which I seized 
 apataram hacâ Pârsâ <sep> outside of Persia 
@@ -306,6 +305,9 @@ Thâtiy Dârayavauš XŠ vasiy tya duškartam âha ava naibam akunavam <sep> Kin
 Dahyâva ayauda aniya aniyam aja ava adam akunavam <sep> The nations were in commotion; people were fighting each other 
 Vašnâ Auramazdâhâ yathâ aniya aniyam naiy jatiy <sep> By the grace of Ahuramazda I brought about that they no longer fight each other at all 
 Cinâ gâthavâ kašciy astiy dâtam tya manâ hacâ avanâ tarsatiy <sep> Each one is in his place They feel fear of my law 
+Ariya Ariya ciça <sep> an Aryan of Aryan descent
+Ariya ciça <sep> of Aryan descent
+ciça Ariya <sep> descended from Aryans
 Yathâ hya tauvîyâ tyam skauthim naiy jatiy naiy vimardatiy <sep> So that the stronger does not fight or destroy the weak 
 Thâtiy Dârayavauš XŠ vašnâ Auramazdâhâ dastakartam vasiy tya paruvam naiy gâthava kartam <sep> King Darius says By the grace of Ahuramazda much construction that had previously been put out of place I put in place 
 Ava adam gâthavâ akunavam nâma vardanam didâ hanatâyâ <sep> In a town called the wall had fallen from age 
@@ -554,6 +556,9 @@ vašnâ Aurahya Mazdâha ima hadiš Dârayavauš XŠ akunauš <sep> By the grace
 hya manâ pitâ mâm Auramazdâ pâtuv <sep> May Ahuramazda together with the gods protect me 
 hadâ bagaibiš upâ tyamaiy kartam <sep> and what I built 
 utâ tyamaiy piça Dârayavahauš XŠhyâ kartam <sep> and what was built by my father king Darius 
+Ariya Ariya ciça <sep> an Aryan of Aryan descent
+Ariya ciça <sep> of Aryan descent
+ciça Ariya <sep> descended from Aryans
 avašciy Auramazdâ pâtuv hadâ bagaibiš <sep> May Ahuramazda and the other gods protect this 
 baga vazraka Auramazdâ hya i mâm bûmim adâ <sep> A great god is Ahuramazda who created this earth 
 hya avam asmânam adâ <sep> Who created that heaven 
