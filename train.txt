@@ -12,22 +12,6 @@ Xšâyathiya vazraka ahyâyâ bûmiyâ <sep> The great king of this land
 Ahyâyâ bûmiyâ dûraiy apiy Artaxšaçâ xšâyathiya <sep> Artaxerxes the king of the earth wide
 Xšâyathiya xšâyathiyânâm vazraka <sep> The great king of kings
 Xšâyathiya paruzanânâm dahyûnâm <sep> The king of many nations
-Vištâspahyâ Aršâma nâma puça<sep>Hystaspes son of who named Arsames
-thâtiy Artaxšaçâ xšâyathiya mâm Auramazdâ utâ Mithra baga pâtuv<sep>King Artaxerxes says May Ahuramazda and the god Mithra protect me
-utâ Mithra baga pâtuv utâ imâm DHyaum utâ tya mâm kartâ<sep>and the god Mithra protect this country and what was built by me
-Ariyâramna xšyathiya vazraka xšâyathiya xšâyathiyânâm xšâyathiya Pârsâ<sep>Ariaramnes the great king king of kings king in Persia
-Cišpaiš xšâyathiyahyâ puça Haxâmanišahyâ napâ<sep> son of king Teispes grandson of Achaemenes
-thâtiy Ariyâramna xšâyathiya iyam dahyâuš Pârsâ tya adam dârayâ miy <sep> King Ariaramnes says This country Persia which I hold
-manâ baga vazraka Auramazdâ frâbara<sep>The great god Ahuramazda gave to me
-vasnâ Auramazdâha adam xšâyathiya iyam dahyâuš<sep>By the grace of Ahuramazda I am the king of this country
-thâtiy Ariyâramna xšâyathiya Auramazdâ manâ upastâm baratuv<sep> King Ariaramnes says May Ahuramazda bear me aid
-Aršâma xšâyathiya vazraka xšâyathiya xšâyathiyânâm xšâyathiya Pârsa<sep>Arsames the great king king of kings king in Persia
-Ariyâramna xšyathiya Pârsâ thâtiy Auramazdâ frâbara <sep> King Ariaramnes of Persia says Ahuramazda gave.
-Ariyâramna xšyathiya vazraka vasnâ Auramazdâha adam dârayâ iyam dahyâuš <sep> The great king Ariaramnes says: By the grace of Ahuramazda, I hold this land
-Cišpaiš xšâyathiyahyâ puça Haxâmanišahyâ napâ <sep> Son of King Teispes, grandson of Achaemenes
-Ariyâramna xšyathiya thâtiy Auramazdâ manâ upastâm baratuv <sep> King Ariaramnes says: May Ahuramazda bear me aid
-aršâma xšyathiya vazraka xšâyathiya xšâyathiyânâm xšâyathiya Pârsâ <sep> Arsames, the great king, king of kings, king in Persia.
-Ariyâramna xšyathiya thâtiy iyam dahyâuš Pârsâ Auramazdâ frâbara <sep> King Ariaramnes says: This land Persia was given by Ahuramazda.
 Adam Artaxšaçâ xšâyathiya dahyûnâm <sep> I am Artaxerxes the king of lands
 Xšâyathiya vazrakâyâ paruzanânâm <sep> The king of many
 Xšayâršahyâ puça Dârayavahauš <sep> Xerxes the son of Darius
@@ -57,7 +41,7 @@ Dârayavašahyâ Vištâspahyâ puça<sep>Darius the son of Hystaspes
 Haxâmanišiya<sep>the Achaemenid
 Xšayâršâ xšâyathiya vazraka adâ šiyâtim martiyahyâ<sep>Great King Xerxes gave happiness to mankind
 imam apadâna vašnâ AM Anahata utâ Mitra adam akunâm<sep>this hall I built by the grace of Ahuramazda Anahita and Mithra
-adam adâ šiyâtim dahyûnâm parûnâm vašnâ Auramazdahâ<sep>I gave happiness to many lands by the grace of Ahura Mazda
+adam adâ šiyâtim dahyûnâm parûnâm vašnâ Auramazdahâ<sep>I gave happiness to many lands by the grace of AhuraMazda
 pitâ akunauš hadiš ahya xšâyathiyânâm imâm asmânam apiy bûmiyâ<sep>My father made this palace for the kings under the heavens upon the earth
 Anahata utâ Mitra mâm pâtuv hacâ vispâ gastâ <sep>May Anahita and Mithra protect me against all evil
 apadânam stûnâya athagainam Artaxšaçâ XŠ vazraka akunauš <sep> This hall with columns of stone Was made by Artaxerxes the great king
@@ -148,8 +132,8 @@ thâtiy Dârayavauš xšâyathiya <sep>Darius the king says
 adam xšâyathiya amiy<sep>I am king
 adam Vištâspa amiy<sep>I am Hystaspes
 adam Dârayavauš amiy<sep>I am Darius
-hya Kûrauš puça<sep>the son of Cyrus
-hya Cišpiš puça<sep>the son of Teispes
+Kûrauš puça<sep>the son of Cyrus
+Cišpiš puça<sep>the son of Teispes
 adam Bardiya amiy<sep> I am bardia
 adam xšâyathiya amiy Bâbirauv <sep>I am the king of Babylon
 adam xšâyathiya amiy Pârsaiy <sep>I am the king of Persia
@@ -165,6 +149,9 @@ adam navama IX duvitâparanam vavam xšâyathiyâ amahy<sep>I am the ninth king 
 thâtiy Dârayavauš xšâyathiya vašnâ Auramazdâha<sep>King Darius says By the grace of Ahuramazda am I king 
 adam xšâyathiya amiy Auzamazdâ xšaçam manâ frâbara<sep>i am king Ahuramazda has give me the kingdom
 adam xšâyathiya amiy Auzamazdâ Bâbirauv manâ frâbara<sep>i am king Ahuramazda has give me the Babylon
+adam xšâyathiya amiy Auzamazdâ Parthava manâ frâbara<sep>i am king Ahuramazda has give me the Parthia 
+adam xšâyathiya amiy Auzamazdâ Pârsaiy manâ frâbara<sep>i am king Ahuramazda has give me the Persia 
+thâtiy Dârayavauš xšâyathiya<sep>King Darius says
 thâtiy Kûrauš xšâyathiya<sep>King Cyrus says
 thâtiy Ariyâramna xšâyathiya<sep>King Ariaramnes says
 thâtiy Vištâspa xšâyathiya<sep>King Hystaspes says
@@ -197,9 +184,34 @@ vašnâ Auramazdâha ima xšaçam dârayâmiy<sep>By the grace of Ahuramazda do 
 thâtiy Dârayavauš xšâyathiya ima tya manâ kartam pasâva yathâ xšâyathiya abavam<sep>King Darius says This is what was done by me after when I became king 
 Kabûjiya nâma Kûrauš puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Cyrus named Cambyses of our dynasty was king here
 Artaxšathrahyâ nâma Xšayâršahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Xerxes named Artaxerxes of our dynasty was king here
-Xšayâršahyâ nâma Dârayavašahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Darius named Xerxes of our dynasty was king here
-Dârayavašahyâ nâma Vištâspahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Hystaspes named Darius of our dynasty was king here
-avahyâ Kabûjiya brâtâ Bardiya nâma âha hamâtâ hamapitâ Kabûjiya<sep>That Cambyses brother Smerdis by name of the same mother and the same father
 avahyâ Kabûjiya pitâ Kûrauš nâma <sep> That Cambyses father Cyrus 
 pasâva Kabûjiya avam Bardiyam avâja<sep>Afterwards Cambyses slew this Smerdis
 frataram Kabûjiya avam Bardiyam avâja<sep>before Cambyses slew this Smerdis
+yathâ Kabûjiya Bardiyam avâja kâra hyâ naiy azdâ abava tya Bardiya avajata<sep>When Cambyses slew Smerdis it was not known to the people that Smerdis was slain
+avahyâ Kabûjiya frataram Kûrauš avâja<sep>that Before Cambyses, Cyrus was slain. 
+pasâva Kabûjiya pitâ Kûrauš avâja<sep>Afterwards Cambyses father Cyrus was slain.
+yathâ Kabûjiya pitâ Kûrauš avâja kârahyâ naiy azdâ abava tya Kûrauš avajata <sep> When Cambyses father Cyrus was slain it was not known unto the people that Cyrus was slain.
+pasâva frataram Bardiyam Kabûjiya avâja <sep> Afterwards, Cambyses slew Smerdis before.
+avahyâ Kabûjiya Kûrauš pitâ <sep> That Cambyses the son of Cyrus
+yathâ avahyâ Bardiyam Kabûjiya avâja <sep> When Cambyses slew that Smerdis.
+kâra hyâ azdâ abava tya Kabûjiya avajata<sep>It was known to the people that Cambyses was slain.
+pasâva Kabûjiya Mudrâyam ašiyava<sep>Afterwards, Cambyses went to Egypt 
+Dârayavauš Ûvja ašiyava<sep> Darius went to Elam
+Artaxšaçâ Bâbiruš ašiyava<sep> Artaxerxes went to Babylonia 
+Ariyâramna Ahurâ ašiyava<sep>Ariaramnes went to Assyria
+Vištâspa Arabâya ašiyava<sep> Hystaspes went to Arabia
+Kabûjiya hya Mudrâyam ašiyava akunauš hadiš <sep>Cambyses who went to Egypt built the palace
+yathâ Kabûjiya Mudrâyam ašiyava pasâva kâra arika abava <sep>When Cambyses went to Egypt Afterwards the people became hostile 
+pasâva drauga dahyauvâ vasiy abava utâ Pârsaiy utâ Mâdaiy utâ aniyâuvâ dahyušuvâ<sep>Afterwards the lie become multiplied in the land and in Persia and Media and in the other lands
+thâtiy Dârayavauš xšâyathiya<sep>King Darius says
+yathâ Kabûjiya Mudrâyam ašiyava pasâva drauga dahyauvâ vasiy abava utâ Pârsaiy utâ aniyâuvâ dahyušuvâ <sep> When Cambyses went to Egypt, afterwards the lie became multiplied in the land and in Persia and in other lands
+thâtiy Dârayavauš xšâyathiya: yathâ pasâva drauga vasiy abava dahyauvâ<sep>King Darius says When afterwards the lie became widespread in the land
+yathâ Kabûjiya pitâ Kûrauš avâja kâra hyâ azdâ abava pasâva drauga vasiy abava dahyauvâ utâ dahyušuvâ<sep>When Cambyses father Cyrus was slain it was known to the people and afterwards the lie became widespread in the land and other lands
+pasâva I martiya maguš âha Gaumâta nâma hauv udapatatâ hacâ paradayadâm<sep>Afterwards a man a Magian was named Gaumâta he raised from paradise
+frataram I brâtâ I Haxâmanišiya âha Auramazdahâ nâma hauv udapatatâ hacâ hadiš<sep>before a brother a Achaemenids was named AhuraMazda he raised from palace
+Arakadriš nâma kaufa hacâ avadaša <sep>mountain called Arakadriš from there
+Pârsaiy Gaumâta xšâyathiya hyâ avathâ adurujiya<sep>in persia Gaumâta lied to the king saying that
+pasâva kâra haruva hamiçiya abava hacâ Kabûjiyâ abiy avam ašiyava<sep>Then were all the people in revolt and from Cambyses they went over unto him 
+utâ Pârsa utâ Mâda utâ aniyâ dahyâva xšaçam hauv agarbâyatâ<sep>and Persia and Media and the other lands he seized the kingdom 
+Aniyâ bûmiyâ hauv agarbâyatâ <sep>he seized the other land
+šiyâtim hauv agarbâyatâ vavam<sep>he seized the happiness of my family
