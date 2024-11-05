@@ -13,15 +13,6 @@ Ahyâyâ bûmiyâ dûraiy apiy Artaxšaçâ xšâyathiya <sep> Artaxerxes the ki
 Xšâyathiya xšâyathiyânâm vazraka <sep> The great king of kings
 Xšâyathiya paruzanânâm dahyûnâm <sep> The king of many nations
 Adam Artaxšaçâ xšâyathiya dahyûnâm <sep> I am Artaxerxes the king of lands
-Ariyâramna xšâyathiyahyâ puça Haxâmanišiya<sep>son of king Ariaramnes an Achaemenian
-thâtiy Aršâma xšâyathiya Auramazdâ baga vazraka hya mathišta bagânâm mâm xšâyathiyam akunauš<sep>King Arsames says the great god Ahuramazda who is greatest of gods made me king
-hauv dahyâum Pârsam manâ frâbara <sep> He give me the land Persia
-vašnâ Auramazdâha imâm dahyâum dârayâmiy <sep>By the favor of Ahuramazda I hold this land
-mâm Auramazdâ pâtuv utâ maiy vitham <sep>May Ahuramazda protect me and my house
-utâ imâm dahyâum tya adam dârayâmiy hauv pâtuv<sep>and may he protect this land which I hold
-Aršâma xšâyathiya vazraka<sep>Arsames the great king
-xšâyathiya xšâyathiyânâm <sep>king of kings
-xšâyathiya Pârsa <sep> king of persia
 Xšâyathiya vazrakâyâ paruzanânâm <sep> The king of many
 Xšayâršahyâ puça Dârayavahauš <sep> Xerxes the son of Darius
 Dârayavahauš napâ Haxâmanišiya <sep> Darius son of the Achaemenids
@@ -193,6 +184,9 @@ vašnâ Auramazdâha ima xšaçam dârayâmiy<sep>By the grace of Ahuramazda do 
 thâtiy Dârayavauš xšâyathiya ima tya manâ kartam pasâva yathâ xšâyathiya abavam<sep>King Darius says This is what was done by me after when I became king 
 Kabûjiya nâma Kûrauš puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Cyrus named Cambyses of our dynasty was king here
 Artaxšathrahyâ nâma Xšayâršahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Xerxes named Artaxerxes of our dynasty was king here
+Xšayâršahyâ nâma Dârayavašahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Darius named Xerxes of our dynasty was king here
+Dârayavašahyâ nâma Vištâspahyâ puça amâxam taumâyâ hauvam idâ xšâyathiya âha<sep>A son of Hystaspes named Darius of our dynasty was king here
+avahyâ Kabûjiya brâtâ Bardiya nâma âha hamâtâ hamapitâ Kabûjiya<sep>That Cambyses brother Smerdis by name of the same mother and the same father
 avahyâ Kabûjiya pitâ Kûrauš nâma <sep> That Cambyses father Cyrus 
 pasâva Kabûjiya avam Bardiyam avâja<sep>Afterwards Cambyses slew this Smerdis
 frataram Kabûjiya avam Bardiyam avâja<sep>before Cambyses slew this Smerdis
@@ -203,7 +197,7 @@ yathâ Kabûjiya pitâ Kûrauš avâja kârahyâ naiy azdâ abava tya Kûrauš a
 pasâva frataram Bardiyam Kabûjiya avâja <sep> Afterwards Cambyses slew Smerdis before 
 avahyâ Kabûjiya Kûrauš pitâ <sep> That Cambyses the son of Cyrus
 yathâ avahyâ Bardiyam Kabûjiya avâja <sep> When Cambyses slew that Smerdis 
-kâra hyâ azdâ abava tya Kabûjiya avajata<sep>It was known to the people that Cambyses was slain 
+kâra hyâ azdâ abava tya Kabûjiya avajata<sep>It become known to the people that Cambyses was slain 
 pasâva Kabûjiya Mudrâyam ašiyava<sep>Afterwards Cambyses went to Egypt 
 Dârayavauš Ûvja ašiyava<sep> Darius went to Elam
 Artaxšaçâ Bâbiruš ašiyava<sep> Artaxerxes went to Babylonia 
@@ -215,12 +209,26 @@ pasâva drauga dahyauvâ vasiy abava utâ Pârsaiy utâ Mâdaiy utâ aniyâuvâ 
 thâtiy Dârayavauš xšâyathiya<sep>King Darius says
 yathâ Kabûjiya Mudrâyam ašiyava pasâva drauga dahyauvâ vasiy abava utâ Pârsaiy utâ aniyâuvâ dahyušuvâ <sep> When Cambyses went to Egypt afterwards the lie became multiplied in the land and in Persia and in other lands
 thâtiy Dârayavauš xšâyathiya yathâ pasâva drauga vasiy abava dahyauvâ<sep>King Darius says When afterwards the lie became widespread in the land
-yathâ Kabûjiya pitâ Kûrauš avâja kâra hyâ azdâ abava pasâva drauga vasiy abava dahyauvâ utâ dahyušuvâ<sep>When Cambyses father Cyrus was slain it was known to the people and afterwards the lie became widespread in the land and other lands
+yathâ Kabûjiya pitâ Kûrauš avâja kâra hyâ azdâ abava pasâva drauga vasiy abava dahyauvâ utâ dahyušuvâ<sep>When Cambyses father Cyrus was slain it become known to the people and afterwards the lie became widespread in the land and other lands
 pasâva I martiya maguš âha Gaumâta nâma hauv udapatatâ hacâ paradayadâm<sep>Afterwards a man a Magian was named Gaumâta he raised from paradise
 frataram I brâtâ I Haxâmanišiya âha Auramazdahâ nâma hauv udapatatâ hacâ hadiš<sep>before a brother a Achaemenids was named AhuraMazda he raised from palace
 Arakadriš nâma kaufa hacâ avadaša <sep>mountain called Arakadriš from there
+Viyaxnahya mâhyâ XIV raucabiš thakatâ âha yadiy udapatatâ<sep>fourteenth day of the month Viyaxana was when he raised
+navama mâhyâ XIV raucabiš thakatâ âha yadiy udapatatâ<sep>fourteenth day of the ninth month was when he raised
+hauv kâra hyâ avathâ adurujiya adam Bardiya amiy hya Kûrauš puça Kabûjiyahyâ brâtâ<sep>He lied to the people saying that I am Smerdis the son of Cyrus the brother of Cambyses
+hauv hyâ avathâ adurujiya adam Bardiya amiy hya Kûrauš puça Kabûjiyahyâ brâtâ<sep>He lied saying that I am Smerdis the son of Cyrus the brother of Cambyses
+pitâ kâra hyâ avathâ adurujiya<sep>father lied to the people saying that
 Pârsaiy Gaumâta xšâyathiya hyâ avathâ adurujiya<sep>in persia Gaumâta lied to the king saying that
 pasâva kâra haruva hamiçiya abava hacâ Kabûjiyâ abiy avam ašiyava<sep>Then were all the people in revolt and from Cambyses they went over unto him 
 utâ Pârsa utâ Mâda utâ aniyâ dahyâva xšaçam hauv agarbâyatâ<sep>and Persia and Media and the other lands he seized the kingdom 
 Aniyâ bûmiyâ hauv agarbâyatâ <sep>he seized the other land
 šiyâtim hauv agarbâyatâ vavam<sep>he seized the happiness of my family
+Garmapadahya mâhyâ IX raucabiš thakatâ âha avathâ xšaçam agarbâyatâ<sep>ninth day of the month Garmapada he seized the kingdom 
+pasâva Kabûjiya uvâmaršiyuš amariyatâ<sep>Afterwards Cambyses died of selfinflicted 
+Dârayavauš xšâyathiya aita xšaçam tya Gaumâta hya maguš adînâ Kabûjiyam aita xšaçam hacâ paruviyata amâxam taumâyâ <sep> thâtiy King Darius says This kingdom which Gaumâta the Magian had taken from Cambyses this kingdom had always belonged to our dynasty
+pasâva Gaumâta hya adînâ Kabûjiyam utâ Pârsam utâ Mâdam utâ aniyâ dahyâva hauv âyasatâ <sep> Afterwards Gaumâta the Magian who take Cambyses of Persia and Media and other lands and he rose up
+hauv xšâyathiya abava<sep>He became king 
+thâtiy Dârayavauš xšâyathiya naiy âha martiya naiy Pârsa naiy Mâda naiy amâxam taumâyâ kašciy hya avam Gaumâtam tyam magum xšaçam dîtam<sep>King Darius says There was no man no Persian no Media no our dynasty any who took the kingdom from Gaumâta the Magian 
+yathâ Kabûjiya Mudrâyam ašiyava pasâva drauga dahyauvâ utâ kara arika abava <sep> When Cambyses went to Egypt afterwards the lie became widespread and the people became hostile
+avahyâ Kabûjiya Bardiyam frataram Kûrauš avâja kâra naiy azdâ <sep> That Cambyses slew Smerdis before the people not knowing it 
+thâtiy Dârayavauš xšâyathiya yathâ mâhyâ Garmapadahya xšaçam pasâva agarbâyatâ <sep> King Darius says in the month of Garmapada the kingdom was afterwards seized 
