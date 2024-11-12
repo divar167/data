@@ -104,13 +104,6 @@ Hya martiyam adâ hya šiyâtim adâ martiyahyâ <sep> Who created mankind who c
 Hya Dârayavaum XŠyam akunauš aivam parûnâm XŠyam <sep> Who made Darius king one king of many one lord of many 
 Aivam parûnâm framâtâram adam Dârayavauš XŠ vazraka <sep> One lord of many I am Darius the great king 
 XŠ XŠyânam XŠ DHnâm XŠ ahyâyâ BUyâ Vištâspahyâ puca Haxâmanišiya <sep> King of kings king of all nations king of this land son of Hystaspes an Achaemenid 
-Thâtiy Dârayavauš XŠ Auramazdâ hya mathišta bagânâm <sep> Darius the King says Ahuramazda the greatest of the gods 
-Hauv mâm adâ hauv mâm XŠyam akunauš <sep> He created me made me king 
-Haumaiy ima xšaçam frâbara tya vazrakam tya uvaspam <sep> Bestowed upon me this kingdom great possessed of good horses 
-Uma rtiyam vašnâ Auramazdâha hya manâ pitâ Vištâspa <sep> Possessed of good men by the grace of Ahuramazda my father Hystaspes 
-Utâ Aršâma hya manâ niyâka tyâ ubâ ajîvatam <sep> And Arsames my grandfather these both were living 
-Yadiy Auramazdâ mâm XŠyam akunauš ahyâyâ BUyâ <sep> When Ahuramazda made me king on this earth 
-Auramazdâm avathâ kâma âha haruvahyâyâ BUyâ <sep> To Ahuramazda thus was the desire he chose me as his man 
 Martiyam mâm avarnavatâ mâm XŠyam akunauš <sep> He chose me as his man made me king in all the earth 
 Haruvahâyâ BUyâ adam Auramazdâm ayadaiy <sep> In all the earth I worshipped Ahuramazda 
 Auramazdâmaiy upastâm abara tyamaiy framâtam cartanaiy <sep> Ahuramazda bore me aid What was commanded to me he made successful 
@@ -197,17 +190,6 @@ hya martiyam adâ <sep> Who created man
 hya šiyâtim adâ martiyahyâ <sep> Who created happiness for mankind 
 hya Dârayavaum xšâyathiyam akunauš <sep> Who made Darius king 
 thâtiy Dârayavauš XŠ mâm Auramazdâ pâtuv <sep> King Darius says May Ahuramazda protect me 
-hadâ bagaibiš utamaiy vitham <sep> Along with the gods may they protect my dynasty 
-utâ thuvâm kâ XŠ hya aparam âhy <sep> And everyone who will be king hereafter 
-adam Dârayavauš XŠ vazraka XŠ XŠyânâm <sep> I am Darius the great king king of kings 
-XŠ DHyunâm XŠ ahyâyâ BUyâ <sep> King of all nations king of this earth 
-Vištâspahyâ puça Haxâmanišiya <sep> Son of Hystaspes the Achaemenid
-adam Dârayavauš xšâyathiya vazraka <sep> I am Darius the great king 
-Vištâspahyâ puça Haxâmanišiya <sep> The son of Hystaspes the Achaemenid
-adam Dârayavauš xšâyathiya vazraka <sep> I am Darius the great king 
-xšâyathiya xšâyathiyânâm <sep> King of kings 
-xšâyathiya dahyûnâm <sep> King of all nations 
-xšâyathiya ahyâyâ bûmiyâ <sep> King of this earth 
 Vištâspahyâ puça Haxâmanišiya <sep> The son of Hystaspes the Achaemenid 
 baga vazraka Auramazdâ hya avam asmânam adâ <sep> A great god is Ahuramazda who created yonder sky 
 hya imâm bumim adâ <sep> Who created this earth 
@@ -334,12 +316,6 @@ adâ martiyahyâ hya Xšayâršâm XŠm akunauš <sep> who made Xerxes king
 aivam parûnâm XŠm aivam parûnâm framâtâram <sep> One king for many one leader of many 
 adam Xšayâršâ XŠ vazraka XŠ XŠânâm <sep> I am Xerxes the great king the king of kings 
 XŠ dahyûnâm paruv zanânâm <sep> the king of all kinds of people with all kinds of origins 
-XŠ ahyâyâ bûmiyâ vazrakâyâ dûraiy <sep> king of this world great and wide 
-apiy Dârayavahauš XŠhyâ puça Haxâmanišiya <sep> the son of king Darius the Achaemenid 
-thâtiy Xšayâršâ XŠ vazraka <sep> The great king Xerxes says 
-vašnâ Aurahya Mazdâha ima hadiš Dârayavauš XŠ akunauš <sep> By the grace of Ahuramazda my father king Darius built this palace 
-hya manâ pitâ mâm Auramazdâ pâtuv <sep> May Ahuramazda together with the gods protect me 
-hadâ bagaibiš upâ tyamaiy kartam <sep> and what I built 
 utâ tyamaiy piça Dârayavahauš XŠhyâ kartam <sep> and what was built by my father king Darius 
 avašciy Auramazdâ pâtuv hadâ bagaibiš <sep> May Ahuramazda and the other gods protect this 
 baga vazraka Auramazdâ hya i mâm bûmim adâ <sep> A great god is Ahuramazda who created this earth 
@@ -376,7 +352,5 @@ Pârsa puça<sep> A Persian son
 aita adam yânam jadiyâmiy Auramazdâm <sep> This I ask as a favor from Ahuramazda 
 mâm Auramazdâ pâtuv hadâ bagaibiš <sep> May Ahuramazda and the gods protect me 
 utamaiy xšaçam utâ tyamaiy kartam <sep> My kingdom and what has been built by me 
-tya ukâram uvaspam vašnâ Auramazdâha <sep>
-avahyarâdiy vayam Haxâmanišiyâ<sep>
 thâtiy Dârayavauš xšâyathiya VIII manâ taumâyâ tyaiy paruvam xšâyathiyâ âha<sep>Darius the king says Eight of my dynasty were kings before me
 tyâ manâ patiyâita<sep>which are subject to me
